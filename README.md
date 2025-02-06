@@ -40,5 +40,5 @@ I develop websites and robotics-related competition and automation projects.
 
 ## 🌐 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/daniellykhalil/)
+- [LinkedIn](https://www.linkedin.com/in/danielly-khalil)
 - [Instagram](https://instagram.com/devrobotics)
