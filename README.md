@@ -14,6 +14,7 @@ I develop websites and robotics-related competition and automation projects.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 **Databases:**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
@@ -26,10 +27,11 @@ I develop websites and robotics-related competition and automation projects.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<!-- ## 🚀 Recent Projects
+## 🚀 Recent Projects
 
-- **[Robotics and Automation](https://github.com/Khalielly/robot-prototyping)**: Robot and automation projects with **ESP32** and **Arduino**.
+<!-- - **[Robotics and Automation](https://github.com/Khalielly/robot-prototyping)**: Robot and automation projects with **ESP32** and **Arduino**.
 - **[Web Development](https://github.com/Khalielly/desenvolvimento-web)**: Front-end and back-end applications using **JavaScript**, **Node.js**, **SQL**, and **PostgreSQL**. -->
+- **[Java Projects](https://github.com/Khalielly/Principios_de_Desenvolvimento_Agil_de_Software)**: A variety of Java-based projects, exploring concepts in object-oriented programming and beyond.
 
 ## 📊 GitHub Stats & Languages
 
@@ -40,5 +42,5 @@ I develop websites and robotics-related competition and automation projects.
 
 ## 🌐 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/daniellykhalil/)
+- [LinkedIn](https://www.linkedin.com/in/danielly-khalil)
 - [Instagram](https://instagram.com/devrobotics)
