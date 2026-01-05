@@ -31,7 +31,7 @@ I develop websites and robotics-related competition and automation projects.
 
 <!-- - **[Robotics and Automation](https://github.com/Khalielly/robot-prototyping)**: Robot and automation projects with **ESP32** and **Arduino**.
 - **[Web Development](https://github.com/Khalielly/desenvolvimento-web)**: Front-end and back-end applications using **JavaScript**, **Node.js**, **SQL**, and **PostgreSQL**. -->
-- **[Java Projects](https://github.com/Khalielly/Principios_de_Desenvolvimento_Agil_de_Software](https://github.com/Khalielly/grupo2))**: A variety of Java-based projects, exploring concepts in object-oriented programming and beyond.
+- **[Java Projects](https://github.com/Khalielly/grupo2)**: A variety of Java-based projects, exploring concepts in object-oriented programming and beyond.
 
 ## 📊 GitHub Stats & Languages
 
